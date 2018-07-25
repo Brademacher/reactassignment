@@ -17,7 +17,7 @@
     {
         "id": 4,
         "name": "Ren",
-        "image": "https://i.imgur.com/b84MFvg.jpg"
+        "image": "https://i.imgur.com/tVtl9bF.png"
     },
     {
         "id": 5,
@@ -68,5 +68,35 @@
         "id": 14,
         "name": "Arnold",
         "image": "https://i.imgur.com/thBi2Yo.png"
+    },
+    {
+        "id": 15,
+        "name": "Gerald",
+        "image": "https://i.imgur.com/dDnBDEM.png"
+    },
+    {
+        "id": 16,
+        "name": "Susie",
+        "image": "https://i.imgur.com/CwnOhKJ.png"
+    },
+    {
+        "id": 17,
+        "name": "Zim",
+        "image": "https://i.imgur.com/uAgThWb.png"
+    },
+    {
+        "id": 18,
+        "name": "Donnie",
+        "image": "https://i.imgur.com/vdCJGRB.png"
+    },
+    {
+        "id": 19,
+        "name": "Angelica",
+        "image": "https://i.imgur.com/VDRdLqr.png"
+    },
+    {
+        "id": 20,
+        "name": "Krumm",
+        "image": "https://i.imgur.com/G2yTfkS.png"
     }
 ]

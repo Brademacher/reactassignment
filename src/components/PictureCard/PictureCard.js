@@ -6,16 +6,9 @@ const PictureCard = props => (
     <div className="img-container">
       <img alt={props.name} src={props.image} />
     </div>
-    <div className="content">
-      <ul>
-        <li>
-          <strong>Name:</strong> {props.name}
-        </li>
-      </ul>
-    </div>
-    <span onClick={() => props.removePicture(props.id)} className="remove">
+    {/* <span onClick={() => props.removePicture(props.id)} className="remove">
       𝘅
-    </span>
+    </span> */}
   </div>
 );
 
