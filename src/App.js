@@ -30,8 +30,6 @@ class App extends Component {
             key={picture.id}
             name={picture.name}
             image={picture.image}
-            occupation={picture.occupation}
-            location={picture.location}
           />
         ))}
       </Wrapper>
