@@ -34,8 +34,7 @@
   }
   
   .card > .remove {
-    color: #ff1744;
-    font-size: 48px;
+    font-size: 5rem;
     position: absolute;
     top: -20px;
     right: 5px;
