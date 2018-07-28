@@ -1,8 +1,9 @@
 import React from "react";
 import "./PictureCard.css";
 
-const PictureCard = props => (
-  <div className="card">
+const PictureCard = props => {
+  console.log(props);
+  return <div className="card">
     <div className="img-container">
       <img alt={props.name} src={props.image} />
     </div>
@@ -10,6 +11,6 @@ const PictureCard = props => (
       𝘅
     </span>
   </div>
-);
+};
 
 export default PictureCard;
